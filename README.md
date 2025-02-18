@@ -15,7 +15,7 @@ Deberas ejecutar este comando para descargar
 
 ```bash
 sudo apt install app
-Hecho por [algunapersona](https://Gerson Steven Chaparr Martinez)
+Hecho por [Gerson Chaparro](https://Gerson Steven Chaparr Martinez)
 
 >"Si lo puedes imaginar lo pedes programar", Alan Kay
 
